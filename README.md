@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omerorkn - I'm a fresh Digital Design Engineer from Turkey.
 - 👀 I’m interested in Digital Electronics, Embedded Systems, Artificial Intellıgence etc.
-- 🌱 I’m currently learning VHDL,Verilog,SystemVerilog, C/C++, Python.
+- 🌱 I’m currently learning VHDL, Verilog, SystemVerilog, C/C++, Python.
 - 📫 How to reach me : omerorkn@hotmail.com & https://www.linkedin.com/in/omerorkn/
 
 <!---
